@@ -1,0 +1,17 @@
+# Hostname of the IRC server
+irc_server: irc.example.com
+
+# Array of nicknames for SynCast.
+nicks: [bot_nick, alternative_nick]
+
+# Array of channels to join on start
+channels: ['#channel1', '#example']
+
+# Nicknames of the bot admins
+admins: [your_nick, another_user]
+
+# Twitter OAuth2 settings
+consumer_key: <OAuth2 consumer key>
+consumer_secret: <OAuth2 consumer secret>
+oauth_token: <OAuth2 access token>
+oauth_token_secret: <OAuth2 access token secret>
